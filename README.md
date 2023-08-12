@@ -1,4 +1,4 @@
-<img src="https://thumbs.gfycat.com/AffectionateSeparateGazelle-size_restricted.gif" alt="Banner" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://www.pixelcrayons.com/blog/wp-content/uploads/2021/08/great-coder.gif" alt="Banner" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <h1 align="center">Hi 👋, I'm AAKASH SHAH</h1>
 <h3 align="center">A passionate Application developer at United Kingdom</h3>
 
